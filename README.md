@@ -1,24 +1,35 @@
 # SnapColorApp
-An App that provides a way for designers who want to choose correct color by upload image and find palette based on specific field
+![logo](https://user-images.githubusercontent.com/116799145/212203511-738750af-5698-49d2-a0a5-e0c9d3a2ac28.jpg)
+
+# Deemo (ar)
+https://drive.google.com/file/d/1Phev64OLkvT-RrPAlQzIKBw0f76JWcd7/view?usp=drivesdk
+# Deemo (en)
+https://drive.google.com/file/d/1Y1qqteOrHndOv0xvXb4OvTVKOcaZyU20/view?usp=drivesdk
+
+# Big Idea
+Inclusion
 
 # Challenge statement
-
-create a way for designers and who want to design something to choose which is the best color.
+Create a way for designers and who want to design something to choose which is the best color.
 
 # Solution concept
-An app for all users who needs help to choose correct palette in specific field without take a long time.
+Help designers to choose a correct palette in specific field without take a long time.
 
 # Features
-- Find color based on specific field.
-- Pick color from image.
+- Finding color based on a specific field.
+- Picking a color from an image.
 - App support localization [English - Arabic]
 - App support color blindness accessibility.
 
-# Technology
-Figma , Xcode , Illustrator
+# Technology & Tools
+- SwiftUI
+- UiKit
+- Accessability (Color Blindness)
+- Figma
+- Illustrator
 
-# ScreenShots
+# Challenge Summary
 
-![212041024-b62c6640-c42b-4229-88ca-93c21d6df962](https://user-images.githubusercontent.com/116799145/212043491-51e97bf3-6f29-40e8-9291-58b3b8a4fccc.PNG)
-![212040991-f1a9e1d2-a51b-4717-9a10-6c81f5d1f3f2](https://user-images.githubusercontent.com/116799145/212043516-d88d37bd-8223-47b2-8c6b-1483806e0076.PNG)
+<img width="1097" alt="Screenshot 1444-06-20 at 2 08 29 AM" src="https://user-images.githubusercontent.com/116799145/212201391-26669d7a-ede4-4f64-89dc-8f87319df821.png">
+
 
