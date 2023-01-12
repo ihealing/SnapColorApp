@@ -11,7 +11,7 @@ import SwiftUI
 struct SnapColorAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Splash()
         }
     }
 }
