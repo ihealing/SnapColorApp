@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SnapColorAppApp: App {
+struct SnapColorApp: App {
     var body: some Scene {
         WindowGroup {
             Splash()
